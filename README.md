@@ -28,6 +28,7 @@
 <!-- Skills Section -->
 ## 🛠️ Skills & Technologies
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/92288027/228864077-c1d8a2e4-8dc5-49e6-8072-c91b9bb7edca.gif">
+
 ### Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
