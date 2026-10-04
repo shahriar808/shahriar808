@@ -1,22 +1,6 @@
-<!-- Banner with name and introduction -->
+<!-- Custom animated banner: put banner.svg in an "assets" folder of your profile repo -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,100:764ba2&height=150&section=header&text=SHAHRIAR%20HASAN&fontSize=50&fontColor=ffffff&animation=blinking&fontAlignY=70" alt="Header"/>
-</div>
-<!-- 3D Floating Animation -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" height="300">
-</div>
-<!-- Animated Tech Icons -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="60">
-  <img src="https://user-images.githubusercontent.com/74038190/212284175-f47d26f5-8dec-4de4-895d-8baa66af8eb3.gif" width="60">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae7-de48-4b4a-8b8f-e5a91b6d4b3c.gif" width="60">
-</div>
-<!-- Professional Title -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Java+Developer+%7C+Bangladesh;Spring+Boot+Expert;Problem+Solver" alt="Typing SVG"/>
+  <img src="./assets/banner.svg" width="100%" alt="Shahriar Hasan - Java Developer | Spring Boot Expert | Problem Solver"/>
 </div>
 
 <!-- Social Links with Enhanced Design -->
